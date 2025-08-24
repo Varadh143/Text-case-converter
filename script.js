@@ -9,8 +9,8 @@ upperBtn.addEventListener("click", () => {
 });
 
 //Convert to lowercase
-lowerBtn.addEventListener("click", () =>{
-    textInput.value = textInput.value.toUppercase();
+lowerBtn.addEventListener("click", () => {
+    textInput.value = textInput.value.toLowerCase();
 });
 
 // Clear text
